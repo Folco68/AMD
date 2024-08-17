@@ -1,0 +1,3 @@
+﻿  AMD.cpp
+C:\Users\FRDEMOLINSM\OneDrive\Dev\AMD\AMD.cpp(38,26): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  AMD.vcxproj -> C:\Users\FRDEMOLINSM\OneDrive\Dev\AMD\x64\Debug\AMD.exe
